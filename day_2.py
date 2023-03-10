@@ -20,6 +20,8 @@ a3 = complex(8+2)
 print(a1)
 print(a2)
 print(a3)
+print(abs(5.8))
+print(round(5.8))
 
 list1 = [8, 2.3, [-4, 5], ["apple", "banana"]]
 print(list1)
